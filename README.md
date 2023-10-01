@@ -6,8 +6,13 @@
 
 InterviewInSync is an interview scheduling application that simplifies the interview process for HR professionals, candidates, and interviewers. The application is built with a modern tech stack, including React for the frontend, Zustand for state management, AWS DynamoDB and Lambda for the backend, AWS API Gateway for API management, CloudWatch for monitoring, and Code Pipeline for continuous deployment.
 
-## Modules
+## Modules & Routes
 
+`/schedule-interview`
+`/application-status`
+`/upload-documents`
+`/interviewer-panel`
+  
 The application consists of three main modules:
 
 ### 1. HR Module
